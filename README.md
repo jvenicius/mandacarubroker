@@ -33,7 +33,7 @@ POST /stocks
 
 ```JSON
 {
-  "symbol": "BBAS3",
+  "symbol": "BB3",
   "companyName": "Banco do Brasil SA",
   "price": 56.97
 }
@@ -50,7 +50,7 @@ PUT /stocks/{id}
 
 ```JSON
 {
-  "symbol": "BBAS3",
+  "symbol": "BB3",
   "companyName": "Banco do Brasil SA",
   "price": 59.97
 }
